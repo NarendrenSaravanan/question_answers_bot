@@ -1,0 +1,9 @@
+{
+    "document_path": "/Users/narendren/workspace/question_answers_bot/test/samples/quiz_sample.json",
+    "document_type": "json",
+    "questions": [
+        "who is Galloping Ghost?",
+        "Schwinn is brand of?",
+        "Is Uncle Sam's goatee red colour"
+    ]
+}

@@ -1,0 +1,13 @@
+fastapi[standard]
+langchain-openai 
+tiktoken 
+langchain-chroma 
+langchain
+langchain_community
+gradio
+pypdf
+unstructured[local-inference]
+libmagic
+backoff
+dynaconf
+jq

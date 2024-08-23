@@ -1,0 +1,10 @@
+{
+    "document_path": "/Users/narendren/workspace/question_answers_bot/test/samples/research_paper.pdf",
+    "document_type": "pdf",
+    "questions": [
+        "who is Mariusz Kruk?",
+        "what are findings of research paper?",
+        "which all devices were used in the survey?",
+        "how many references are mentioned in the paper?"
+    ]
+}
