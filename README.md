@@ -4,7 +4,7 @@ QA Bot to provide answers based on a given context. 🚀
 
 
 ## DEMO VIDEO 
-
+https://drive.google.com/file/d/10u4fYrbESEjL3-q4fgWz7Pry9y1I3j4N/view?usp=sharing
 
 ## SETUP
 - pip3 install -r requirements.txt
